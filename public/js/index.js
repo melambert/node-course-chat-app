@@ -3,12 +3,6 @@ var socket = io();
 //Use functions rather than ES6 arrow functions for browser/mobile compatibility
 socket.on('connect', function() {
     console.log('Connected to server')
-
-    socket.emit('createMessage', {
-        from: "jab@jabber.com",
-        text: "hey"
-    });
-
 });
 
 socket.on('disconnect', function() {
