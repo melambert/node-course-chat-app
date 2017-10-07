@@ -3,24 +3,26 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/dist/server/server.js" />
-        <item url="file://$PROJECT_DIR$/dist/public/js/index.js" />
         <item url="file://$PROJECT_DIR$/dist/server/utils/message.test.js" />
+        <item url="file://$PROJECT_DIR$/dist/public/js/index.js" />
         <item url="file://$PROJECT_DIR$/dist/playground/time.js" />
         <item url="file://$PROJECT_DIR$/dist/public/js/libs/moment.js" />
         <item url="file://$PROJECT_DIR$/dist/server/utils/message.js" />
         <item url="file://$PROJECT_DIR$/dist/public/js/libs/jquery-3.2.1.min.js" />
         <item url="file://$PROJECT_DIR$/dist/public/js/libs/mustache.js" />
+        <item url="file://$PROJECT_DIR$/dist/public/js/chat.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/dist/server/server.js" />
-      <root url="file://$PROJECT_DIR$/dist/public/js/index.js" />
       <root url="file://$PROJECT_DIR$/dist/server/utils/message.test.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/js/index.js" />
       <root url="file://$PROJECT_DIR$/dist/playground/time.js" />
       <root url="file://$PROJECT_DIR$/dist/public/js/libs/moment.js" />
       <root url="file://$PROJECT_DIR$/dist/server/utils/message.js" />
       <root url="file://$PROJECT_DIR$/dist/public/js/libs/jquery-3.2.1.min.js" />
       <root url="file://$PROJECT_DIR$/dist/public/js/libs/mustache.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/js/chat.js" />
     </CLASSES>
     <SOURCES />
   </library>
