@@ -9,6 +9,7 @@
         <item url="file://$PROJECT_DIR$/dist/public/js/libs/moment.js" />
         <item url="file://$PROJECT_DIR$/dist/server/utils/message.js" />
         <item url="file://$PROJECT_DIR$/dist/public/js/libs/jquery-3.2.1.min.js" />
+        <item url="file://$PROJECT_DIR$/dist/public/js/libs/mustache.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -19,6 +20,7 @@
       <root url="file://$PROJECT_DIR$/dist/public/js/libs/moment.js" />
       <root url="file://$PROJECT_DIR$/dist/server/utils/message.js" />
       <root url="file://$PROJECT_DIR$/dist/public/js/libs/jquery-3.2.1.min.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/js/libs/mustache.js" />
     </CLASSES>
     <SOURCES />
   </library>
