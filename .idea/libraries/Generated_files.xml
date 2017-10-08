@@ -2,27 +2,37 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/server/utils/users.js" />
         <item url="file://$PROJECT_DIR$/dist/server/server.js" />
-        <item url="file://$PROJECT_DIR$/dist/server/utils/message.test.js" />
-        <item url="file://$PROJECT_DIR$/dist/public/js/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/utils/users.test.js" />
         <item url="file://$PROJECT_DIR$/dist/playground/time.js" />
         <item url="file://$PROJECT_DIR$/dist/public/js/libs/moment.js" />
-        <item url="file://$PROJECT_DIR$/dist/server/utils/message.js" />
-        <item url="file://$PROJECT_DIR$/dist/public/js/libs/jquery-3.2.1.min.js" />
         <item url="file://$PROJECT_DIR$/dist/public/js/libs/mustache.js" />
         <item url="file://$PROJECT_DIR$/dist/public/js/chat.js" />
+        <item url="file://$PROJECT_DIR$/dist/public/js/libs/deparam.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/utils/message.test.js" />
+        <item url="file://$PROJECT_DIR$/dist/public/js/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/utils/validation.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/utils/message.js" />
+        <item url="file://$PROJECT_DIR$/dist/public/js/libs/jquery-3.2.1.min.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/utils/validation.test.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/server/utils/users.js" />
       <root url="file://$PROJECT_DIR$/dist/server/server.js" />
-      <root url="file://$PROJECT_DIR$/dist/server/utils/message.test.js" />
-      <root url="file://$PROJECT_DIR$/dist/public/js/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/utils/users.test.js" />
       <root url="file://$PROJECT_DIR$/dist/playground/time.js" />
       <root url="file://$PROJECT_DIR$/dist/public/js/libs/moment.js" />
-      <root url="file://$PROJECT_DIR$/dist/server/utils/message.js" />
-      <root url="file://$PROJECT_DIR$/dist/public/js/libs/jquery-3.2.1.min.js" />
       <root url="file://$PROJECT_DIR$/dist/public/js/libs/mustache.js" />
       <root url="file://$PROJECT_DIR$/dist/public/js/chat.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/js/libs/deparam.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/utils/message.test.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/js/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/utils/validation.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/utils/message.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/js/libs/jquery-3.2.1.min.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/utils/validation.test.js" />
     </CLASSES>
     <SOURCES />
   </library>
